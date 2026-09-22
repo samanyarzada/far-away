@@ -1,16 +1,64 @@
-# React + Vite
+# 🏝️ Far Away - Packing List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React packing list application for managing items needed for a trip.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Add items to your packing list
+- Select item quantity
+- Mark items as packed
+- Delete items from the list
+- Input validation
+- Responsive and simple UI
 
-## React Compiler
+## 🛠️ Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- CSS
+- Vite
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+```
+
+Go to the project directory:
+
+```bash
+cd YOUR_REPOSITORY
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Then open the local URL shown in the terminal.
+
+## 📚 What I Learned
+
+This project helped me practice:
+
+- React components
+- `useState`
+- Props
+- Event handling
+- Rendering lists with `map()`
+- Updating arrays with `map()` and `filter()`
+- Conditional rendering
+- Form handling and validation
+
+## 👨‍💻 Author
+
+Saman Yarzada
